@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Desenvolvedor Web Back-end<br>
+💻 Desenvolvedor Back-end Node.js <br>
 
 No meu perfil GitHub, você encontrará projetos pessoais e contribuições em projetos de código aberto, demonstrando meu conhecimento e habilidades em desenvolvimento web. Estou sempre aberto a novos desafios e adoro colaborar em equipe para criar soluções inovadoras e eficientes.
 
