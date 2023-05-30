@@ -1,6 +1,7 @@
 # 💫 About Me:
-💻 Desenvolvedor Web.<br>🎓 Estudante de Ciências da Computação.<br>❤️ Apaixonado por Tecnologia.
+💻 Desenvolvedor Web Back-end<br>
 
+No meu perfil GitHub, você encontrará projetos pessoais e contribuições em projetos de código aberto, demonstrando meu conhecimento e habilidades em desenvolvimento web. Estou sempre aberto a novos desafios e adoro colaborar em equipe para criar soluções inovadoras e eficientes.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lucastech.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lucasgweb) 
